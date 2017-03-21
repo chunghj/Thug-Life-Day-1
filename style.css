@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    margin: zero;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    font size: 3em;
+    width: 100%;
+}
+
+article {
+    width: 90%;
+    border: 5px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+section img {
+    width: 100%;
+}
+footer button {
+    font-size: 4em;
+}
+.yes {
+    float: right;
+}
+
+.no {
+    float: left;
+}
